@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"erporate.transactions"}],"uuid":"b992fa374e354f75bcdc7403a1cc1847"}
